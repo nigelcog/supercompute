@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Computing</string>
+    <string name="getting_started_string">Cool !</string>
+    <string name="getting_started_info">We would be using the processing power of your phone, while you are online.</string>
+    <string name="title_activity_activity_main">ActivityMain</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
